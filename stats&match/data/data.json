@@ -1,0 +1,92 @@
+{
+  "goal":
+  {
+    "home_goal": 567,
+    "away_goal": 459
+  },
+  "match":
+  {
+    "all_match": 380
+  },
+     "Liverpool": {
+       "Victoire": 22,
+       "Defaite": 6,
+       "matchs": 32,
+       "Null": 4,
+       "home_goal": 69,
+       "away_goal": 29,
+       "goal_conced_home": 10,
+       "goal_conced_away": 18,
+        "home_match": 16,
+         "away_match": 16,
+       "player": "Ter Stegen\nSergiño Dest\nGerard Piqué \nRonald Araujo\nSergio\nRiqui Puig\nO. Dembélé\nMemphis\nAnsu Fati\nAdama\nBraithwaite\nNeto  \nLenglet\nPedri\nL. De Jong\nJordi Alba\nFerran \nS. Roberto\nF. De Jong\nO. Mingueza\nUmtiti \nEric\nAubameyang\nNico\nGavi\nBalde\nÁlvaro Sanz\nComas\nArnau Tenas\nAkhomach\nAstralaga\nJandro"
+     },
+
+    "Arsenal": {
+       "Victoire": 21,
+       "Defaite": 15,
+       "matchs": 41,
+        "Null":5,
+         "home_goal": 39,
+       "away_goal": 29,
+       "goal_conced_home": 15,
+       "goal_conced_away": 25,
+         "home_match": 16,
+         "away_match": 16
+     },
+
+       "Man_city": {
+       "Victoire": 37,
+       "Defaite": 7,
+       "matchs": 50,
+         "Null": 6,
+          "home_goal": 42,
+       "away_goal": 30,
+       "goal_conced_home": 10,
+       "goal_conced_away": 18,
+          "home_match": 16,
+         "away_match": 16
+
+     },
+
+       "Chelsea": {
+       "Victoire": 19,
+       "Defaite": 5,
+       "matchs": 32,
+         "Null": 8,
+          "home_goal": 49,
+       "away_goal": 26,
+       "goal_conced_home": 7,
+       "goal_conced_away": 28,
+          "home_match": 16,
+         "away_match": 16
+     },
+
+
+       "Man_united": {
+       "Victoire": 16,
+       "Defaite": 10,
+       "matchs": 32,
+         "Null": 6,
+          "home_goal": 46,
+       "away_goal": 18,
+       "goal_conced_home": 21,
+       "goal_conced_away": 17,
+          "home_match": 16,
+         "away_match": 16
+
+     },
+
+       "Tottenham": {
+       "Victoire": 24,
+       "Defaite": 3,
+       "matchs": 32,
+         "Null": 5,
+          "home_goal": 23,
+       "away_goal": 47,
+       "goal_conced_home": 20,
+       "goal_conced_away": 18,
+         "home_match": 16,
+         "away_match": 16
+     }
+    }
